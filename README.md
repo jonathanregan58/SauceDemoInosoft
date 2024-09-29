@@ -12,6 +12,7 @@ Java 11
 
 Tools for this project is:
 Selenium Java 4.25.0
+
 WebDriverManager from BoniGarcia 5.9.2
 *Uses chrome only as the browser
 Cucumber-Java 6.8.1
