@@ -1,5 +1,5 @@
 # SauceDemoInosoft
-Testing SauceDemo from Inosoft
+Testing SauceDemo(https://www.saucedemo.com/) which is assignment from Inosoft
 
 # IDE, Programming Languange, and Tools
 IDE for this project is:
