@@ -68,6 +68,9 @@ Checkout:
 
 @CartBuy2ItemsAsStandardUser ->  @ContinueWithFullValues2 ->  @FinalizeCheckout
 
+# Process of creating test cases
+Conducted exploratory testing first and then divided it to 3 scenarios(Login, Item, and Checkout) and automated the test cases that are commonly executed manually and can be automated within timeframe
+
 # How to run
 1. Write the tag that contains the test case you wanted to run
 *If you want to run 2 or more tags, use or as the connector(replace the "->" with "or"; look in # Test Cases)
