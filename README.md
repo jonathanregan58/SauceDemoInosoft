@@ -46,27 +46,43 @@ Login:
 
 @successfulloginasstandarduser
 
+Recording of the execution of the test case above: https://drive.google.com/file/d/1J0mdBqZEwdJW7NeEsLerJ9nfpZAoj97-/view?usp=drive_link
+
 @successfulloginaslockedoutuser
+
+Recording of the execution of the test case above: https://drive.google.com/file/d/1YDZ6qK6EkUOnSoA5Oq3llj3tlo1RaHcj/view?usp=drive_link
 
 @faileloginemptyfields
 
+Recording of the execution of the test case above: https://drive.google.com/file/d/1QrmzAJRdj35Nw_SGXaoDPZiqpZchlfJG/view?usp=drive_link
 
 Item:
 
 @successfulladditemtoppageasstandarduser
 
+Recording of the execution of the test case above: https://drive.google.com/file/d/1V09Zfq3SbzjFND-t8-73xmThH1MgJ4Bu/view?usp=drive_link
+
 @successfulladditemtoppageasstandarduser -> @successfullremoveitemtoppageasstandarduser
+
+Recording of the execution of the test case above: https://drive.google.com/file/d/1GQ5VZch7zPt9EbTjCK7nx6u-pohOwlm7/view?usp=drive_link
 
 @successfulladditemtoppageasstandarduser -> @successfulladdotheritemtoppageasstandarduser
 
+Recording of the execution of the test case above: https://drive.google.com/file/d/1i26hdPqDLnxlDqZ7J5gXL-HDd1eBnDQx/view?usp=drive_link
 
 Checkout:
 
 @CartBuy1ItemAsStandardUser -> @ContinueWithoutAnyValues
 
+Recording of the execution of the test case above: https://drive.google.com/file/d/1l8KzlnJyEgn4H42jjwBLf3ik78EhvLV1/view?usp=drive_link
+
 @CartBuy1ItemAsStandardUser ->  @ContinueWithFullValues -> @FinalizeCheckout
 
+Recording of the execution of the test case above: https://drive.google.com/file/d/12j2buud8R5ciGXiw1AhHUcOA8liJn3-K/view?usp=drive_link
+
 @CartBuy2ItemsAsStandardUser ->  @ContinueWithFullValues2 ->  @FinalizeCheckout
+
+Recording of the execution of the test case above: https://drive.google.com/file/d/1E-7zhF5EDN5RP-zD8bHv5zvInvWNj4Sg/view?usp=drive_link
 
 # Process of creating test cases
 Conducted exploratory testing first and then divided it to 3 scenarios(Login, Item, and Checkout) and automated the test cases that are commonly executed manually and can be automated within timeframe
