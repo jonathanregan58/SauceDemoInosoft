@@ -66,8 +66,6 @@ Checkout:
 
 @CartBuy1ItemAsStandardUser ->  @ContinueWithFullValues -> @FinalizeCheckout
 
-@CartBuy2ItemsAsStandardUser -> @ContinueWithoutAnyValues
-
 @CartBuy2ItemsAsStandardUser ->  @ContinueWithFullValues2 ->  @FinalizeCheckout
 
 # How to run
