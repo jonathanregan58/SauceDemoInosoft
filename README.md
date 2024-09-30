@@ -62,6 +62,13 @@ Recording of the execution of the test case above: https://drive.google.com/file
 
 Recording of the execution of the test case above: https://drive.google.com/file/d/1QrmzAJRdj35Nw_SGXaoDPZiqpZchlfJG/view?usp=drive_link
 
+@accesswithoutlogin
+
+*This is negative
+
+Recording of the execution of the test case above: https://drive.google.com/file/d/1TMWGuXvtrZnL27ecRBqkempsPFwLw9A2/view?usp=drive_link
+
+
 Item:
 
 @successfulladditemtoppageasstandarduser
