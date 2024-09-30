@@ -25,7 +25,16 @@ import io.cucumber.testng.CucumberOptions;
 		,plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 		,monochrome = true
 		,publish = true
-		,tags = "@CartBuy2ItemsAsStandardUser or @ContinueWithFullValues2"
+		,tags = "@accesswithoutlogin"
+		//"@CartBuy2ItemsAsStandardUser or @ContinueWithFullValues2 or @FinalizeCheckout" 
+		//"@CartBuy1ItemAsStandardUser or @ContinueWithFullValues or @FinalizeCheckout"
+		//"@CartBuy1ItemAsStandardUser or @ContinueWithoutAnyValues"
+		//"@successfulladditemtoppageasstandarduser or @successfulladdotheritemtoppageasstandarduser"
+		//"@successfulladditemtoppageasstandarduser or @successfullremoveitemtoppageasstandarduser"
+		//"@successfulladditemtoppageasstandarduser"
+		//"@successfulloginaslockedoutuser"
+		//"@successfulloginasstandarduser"
+		//"@CartBuy2ItemsAsStandardUser or @ContinueWithFullValues2"
 		//"@successfulladditemtoppageasstandarduser or @successfulladdotheritemtoppageasstandarduser"
 		//"@CartBuy2ItemsAsStandardUser or @ContinueWithFullValues2"
 		//"@successfulladditemtoppageasstandarduser or @successfulladdotheritemtoppageasstandarduser"

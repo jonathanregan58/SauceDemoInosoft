@@ -50,6 +50,10 @@ public class LoginDefinitions {
 		//Assert.assertEquals(objLogin.geterrormessage(),"Epic sadface: Sorry, this user has been locked out.");
 	}
 	
+	@When("User tries to access home page")
+	public void user_tries_to_access_home_page() {
+		HelperClass.openPage("https://www.saucedemo.com/inventory.html");
+	}
 	
 
 	

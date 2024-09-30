@@ -31,6 +31,14 @@ Feature: Login to Swag lab page
     When User click the login button
     Then User should not navigate to Swag Labs home page where message "Epic sadface: Username is required" appears on login page
     
+    @accesswithoutlogin
+    Scenario: Try to access home page without login
+    Given User should navigate to swag labs login page
+    When User tries to access home page
+    Then User should not navigate to Swag Labs home page where message "Epic sadface: You can only access '/inventory.html' when you are logged in." appears on login page
+    
+    
+    
    
   
    
